@@ -88,4 +88,4 @@ while chra != 'q':
     time.sleep(5)
 
     chra = raw_input('Get or Quit?(g/q)')
-    
+   
